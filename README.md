@@ -1,6 +1,8 @@
 # Innolab-ML-Monday
 SLR and MLR code and dataset
 
+Due to limited time, we will focus on Steps 4, 6, 7
+
 ### Summary of Steps for Linear Regression
 
 1. Exploratory Data Analysis (EDA)
